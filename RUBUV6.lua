@@ -1,5 +1,5 @@
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/RUBU/refs/heads/main/rubutv"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/notify"))()
 local P = game:GetService("Players")
 local L = P.LocalPlayer
 local RS = game:GetService("ReplicatedStorage")
